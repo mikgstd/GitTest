@@ -6,5 +6,6 @@ public class One {
         System.out.println("lol");
         System.out.println("I");
         System.out.println("O");
+        System.out.println("My test text");
     }
 }
